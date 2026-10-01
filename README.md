@@ -53,7 +53,7 @@ The dataset contains flight booking information collected over a period of 50 da
 
 A Power BI dashboard was created to present the findings in an interactive and easy-to-understand format.
 
-You can view the complete [Power BI Dashboard](https://github.com/indtheblacktiger/Indian-Airlines-Ticket-Price-Analysis/blob/master/Indian%20Airline%20Ticket%20Prices%20Dashboard.pdf).
+
 
 The dashboard provides a quick overview of ticket prices between different cities and allows users to compare airlines, travel classes, flight durations, and other important factors affecting airfare.
 
